@@ -5,17 +5,17 @@ const CoursesSection = () => {
     {
       title: 'Fitness',
       description: 'Lorem ipsum dolor sit amet, consectetur thedinisadipiscing elit, sedsed diam nonummy eirmod tempor invidunt ut labore.',
-      imageUrl: 'https://via.placeholder.com/400x300/CCCCCC/FFFFFF?text=Fitness', // Replace with your image
+      imageUrl: 'https://i.pinimg.com/736x/21/68/f1/2168f1a8ce9f4e98867aae74d0030d37.jpg', // Replace with your image
     },
     {
       title: 'Body Building',
       description: 'Lorem ipsum dolor sit amet, consectetur thedinisadipiscing elit, sedsed diam nonummy eirmod tempor invidunt ut labore.',
-      imageUrl: 'https://via.placeholder.com/400x300/AAAAAA/FFFFFF?text=Body+Building', // Replace with your image
+      imageUrl: 'https://i.pinimg.com/736x/8e/83/da/8e83dabe710f32747cc52428980d12d8.jpg', // Replace with your image
     },
     {
       title: 'Yoga & Meditation',
       description: 'Lorem ipsum dolor sit amet, consectetur thedinisadipiscing elit, sedsed diam nonummy eirmod tempor invidunt ut labore.',
-      imageUrl: 'https://via.placeholder.com/400x300/BBBBBB/FFFFFF?text=Yoga', // Replace with your image
+      imageUrl: 'https://i.pinimg.com/736x/ce/6f/5c/ce6f5c3ed0855cfc932b16af6b61889e.jpg', // Replace with your image
     },
   ];
 
