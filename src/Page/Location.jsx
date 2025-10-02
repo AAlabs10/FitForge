@@ -3,16 +3,17 @@ import React from 'react';
 
 function Location() {
   // A placeholder for location data you might fetch or define
-  const locationData = {
-    name: "Mission District",
-    address: "San Francisco, CA, USA",
-    coordinates: {
-      lat: 37.7601, // Example coordinates for Mission District, SF
-      lng: -122.4101,
-    },
-    googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1576.2238466649733!2d-122.41011867169429!3d37.76013329999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085b9a6d8920155%3A0xc023735160b73b9e!2sMission%20District%2C%20San%20Francisco%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1678912345678!5m2!1sen!2sin"
-    // In a real app, you might fetch this from a backend or a location API
-  };
+const locationData = {
+  name: "State Secretariat, Abere",
+  address: "Abere, Osogbo, Osun State, Nigeria",
+  coordinates: {
+    lat: 7.73274,
+    lng: 4.51614,
+  },
+  googleMapsEmbedUrl:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.090809502433!2d4.516139974045624!3d7.732740007037954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1037897d63a3a8a7%3A0x8e2f6d51c9ddc7a4!2sOsun%20State%20Government%20Secretariat%2C%20Abere!5e0!3m2!1sen!2sng!4v1735756950000!5m2!1sen!2sng",
+};
+
 
   const handleSubmit = (e) => {
     e.preventDefault();

@@ -5,7 +5,7 @@ function Pricing() {
   const pricingPlans = [
     {
       name: 'Basic',
-      price: '$29',
+      price: '₦20,000',
       duration: '/Monthly',
       features: [
         '3 Days a Week',
@@ -17,7 +17,7 @@ function Pricing() {
     },
     {
       name: 'Standard',
-      price: '$49',
+      price: '₦50,000',
       duration: '/Monthly',
       features: [
         '3 Days a Week',
@@ -29,7 +29,7 @@ function Pricing() {
     },
     {
       name: 'Premium',
-      price: '$99',
+      price: '₦100,000',
       duration: '/Monthly',
       features: [
         '3 Days a Week',

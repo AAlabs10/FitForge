@@ -4,12 +4,12 @@ const teamMembers = [
   {
     name: 'Sarah Clerk',
     title: 'Fitness Trainer and CEO',
-    imageUrl: 'https://images.unsplash.com/photo-1596489391168-e4b0c2a2b0e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZpdG5lc3MlMjB0cmFpbmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60', // Example image
+    imageUrl: 'https://i.pinimg.com/1200x/65/d0/05/65d005393507ae992327f4deefacc6fe.jpg', // Example image
   },
   {
     name: 'Nora F.',
     title: 'Fitness Trainer',
-    imageUrl: 'https://images.unsplash.com/photo-1571019624545-aca13038a7c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZpdG5lc3MlMjB0cmFpbmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60', // Example image
+    imageUrl: 'https://i.pinimg.com/736x/61/75/05/6175055a98b055384d26c112dcffdc8b.jpg', // Example image
   },
   {
     name: 'David Smith',

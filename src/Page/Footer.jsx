@@ -9,9 +9,9 @@ function Footer() {
           {/* Contact Section */}
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">Contact</h3>
-            <p className="mb-2">Phone: 01998573212</p>
-            <p className="mb-2">Email: hello@gmail.com</p>
-            <p className="mb-2">Location: Jordon Heights, New York, USA</p>
+            <p className="mb-2">Phone: 09015723473</p>
+            <p className="mb-2">Email: Adetoyeseadeniran25@gmail.com</p>
+            <p className="mb-2">Location: Abere, Osogobo, NIGERIA</p>
           </div>
 
           {/* Course Section */}
@@ -64,7 +64,7 @@ function Footer() {
 
         {/* Copyright Section */}
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-xs text-gray-500">
-          <p>Copyright 2023. Designed and Developed by <span>&#x2764;</span>. All rights reserved.</p>
+          <p>Copyright 2025. Designed by <span>&#x2764;</span>. Adeniran Adetoye.</p>
         </div>
       </div>
     </footer>
